@@ -1,3 +1,2 @@
 #!/bin/bash
-cat
--l
+ls -l
